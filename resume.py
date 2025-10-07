@@ -1,0 +1,7 @@
+print("Name:dhanalakshmi")
+print("Email:dhanalakshmi2002v@gmail.com")
+print("Phone:9600493572")
+print("Education:Bsc.forensic science")
+print("Skills:excel,word,powerpoint,laboratory handling")
+print("Projects:types of hydrocarbon detection,fire and arson investigation")
+print("Certificate:IELTS exam,research writing internship")
