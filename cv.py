@@ -1,0 +1,6 @@
+print("\n bio data")
+name=(input("enter your name:"))
+age=(input("enter your age:"))
+email=(input("enter your mail id:"))
+qualification=(input("enter your qualification:"))
+phonenumber=(input("enter your number: "))
